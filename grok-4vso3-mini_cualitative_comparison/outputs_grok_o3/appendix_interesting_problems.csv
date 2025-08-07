@@ -1,0 +1,41 @@
+problem_id,domain,n_flags,flags,acc_grok,acc_o3,rel_adv
+11903135,Geometría,2,"o3-mini strong, Grok weak | Large overall advantage: o3-mini",0.25,1,-0.75
+94075696,Geometría,2,"o3-mini strong, Grok weak | Large overall advantage: o3-mini",0.08333333333333333,0.75,-0.6666666666666666
+53431694,Teoria de Números,2,"Grok strong, o3-mini weak | Large overall advantage: Grok",0.875,0.3333333333333333,0.5416666666666667
+11110014,Combinatoria,2,Very different run stability | Large overall advantage: o3-mini,0.5,1,-0.5
+30542860,Geometría,2,Very different run stability | Large overall advantage: o3-mini,0.5,1,-0.5
+67048238,Teoria de Números,2,Very different run stability | Large overall advantage: o3-mini,0.5,1,-0.5
+78646333,Geometría,2,Very different run stability | Large overall advantage: o3-mini,0.5,1,-0.5
+80693918,Teoria de Números,2,Very different run stability | Large overall advantage: o3-mini,0.5,1,-0.5
+11110008,Combinatoria,2,Only Grok solved (any config) | Very different run stability,0.4583333333333333,0,0.4583333333333333
+11110020,Combinatoria,2,Only Grok solved (any config) | Very different run stability,0.20833333333333331,0,0.20833333333333331
+92277356,Geometría,1,Large overall advantage: o3-mini,0.41666666666666663,0.9166666666666666,-0.5
+11740200,Lógica Matemática,1,Very different run stability,0.5833333333333334,1,-0.41666666666666663
+69096660,Cálculo,1,Very different run stability,0.5833333333333334,1,-0.41666666666666663
+37465279,Teoria de Números,1,Very different run stability,0.625,1,-0.375
+67283791,Geometría,1,Very different run stability,0.625,1,-0.375
+77573257,Teoria de Números,1,Very different run stability,0.625,1,-0.375
+37339456,Cálculo,1,Very different run stability,0.6666666666666666,1,-0.33333333333333337
+70107447,Probabilidad,1,Very different run stability,0.6666666666666666,1,-0.33333333333333337
+46784732,Álgebra,1,Very different run stability,0.6666666666666667,1,-0.33333333333333326
+11110017,Combinatoria,1,Very different run stability,0.7083333333333334,1,-0.29166666666666663
+13123055,Cálculo,1,Very different run stability,0.7083333333333334,1,-0.29166666666666663
+31369699,Teoria de Números,1,Very different run stability,0.75,1,-0.25
+39221677,Geometría,1,Very different run stability,0.75,1,-0.25
+69874541,Lógica Matemática,1,Very different run stability,0.75,1,-0.25
+11110006,Lógica Matemática,1,Only Grok solved (any config),0.125,0,0.125
+91557340,Álgebra,1,Large difference in language sensitivity,0.75,0.6666666666666666,0.08333333333333337
+64041478,Álgebra,1,Only Grok solved (any config),0.041666666666666664,0,0.041666666666666664
+11110019,Combinatoria,1,Both failed (all configs),0,0,0
+38829155,Cálculo,1,Both failed (all configs),0,0,0
+41485018,Probabilidad,1,Both failed (all configs),0,0,0
+44556592,Cálculo,1,Both failed (all configs),0,0,0
+65904660,Lógica Matemática,1,Both failed (all configs),0,0,0
+69758831,Teoria de Números,1,Both failed (all configs),0,0,0
+70675663,Cálculo,1,Both failed (all configs),0,0,0
+75069520,Probabilidad,1,Both failed (all configs),0,0,0
+75721634,Geometría,1,Both failed (all configs),0,0,0
+84145301,Probabilidad,1,Both failed (all configs),0,0,0
+85182422,Probabilidad,1,Both failed (all configs),0,0,0
+91245748,Cálculo,1,Both failed (all configs),0,0,0
+97250565,Geometría,1,Both failed (all configs),0,0,0
