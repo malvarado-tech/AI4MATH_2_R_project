@@ -1,0 +1,3 @@
+"","model","BIC","deltaBIC","wBIC"
+"1","additive: model + domain",7729.33749912291,0,1
+"2","interaction: model × domain",7892.65742346103,163.319924338118,3.43185584907823e-36

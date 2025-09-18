@@ -1,0 +1,6 @@
+"","model","BIC","df","deltaBIC","wBIC"
+"model + language","model + language",7691.3858530795,11,0,0.988920679217982
+"model + language + prompt","model + language + prompt",7700.43302549067,12,9.04717241117214,0.0107298322180445
+"model + language * prompt","model + language * prompt",7707.28165021231,13,15.8957971328064,0.000349488563252643
+"model * language + prompt","model * language + prompt",7747.28008580921,19,55.8942327297136,7.20913297160835e-13
+"model * language * prompt","model * language * prompt",7873.59934477524,34,182.213491695744,2.67919591636913e-40
